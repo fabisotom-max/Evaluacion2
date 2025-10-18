@@ -13,3 +13,9 @@ Instalación de la librería:
 
 ```bash
 pip3 install googletrans==4.0.0-rc1
+
+## Uso del script:
+
+```bash
+python3 graphhoper_routes_dicc.py
+
