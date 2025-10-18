@@ -20,7 +20,7 @@ pip3 install googletrans==4.0.0-rc1
 python3 graphhoper_routes_dicc.py
 ```
 
-Se solicitará escoger vehículo entre `auto`, `bicileta` ó `pie`
+Se solicitará escoger vehículo entre `auto`, `bicicleta` ó `pie`
 
 Posteriormente deberá elegir el punto de partida, ej:
 
