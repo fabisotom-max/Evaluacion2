@@ -19,3 +19,16 @@ pip3 install googletrans==4.0.0-rc1
 ```bash
 python3 graphhoper_routes_dicc.py
 ```
+
+Se solicitará escoger vehículo entre `auto`, `bicileta` ó `pie`
+
+Posteriormente deberá elegir el punto de partida, ej:
+
+`Santiago, Chile`
+
+y luego el destino, ej:
+
+`Rancagua, Chile`
+
+Para salir de la aplicación, puede escribir `salir` o simplemente `s`
+
